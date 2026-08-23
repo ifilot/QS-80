@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TL16C2550PFBR") (type "KiCad") (uri "${KIPRJMOD}/components/TL16C2550PFBR.kicad_sym") (options "") (descr ""))
+	(lib (name "vera") (type "KiCad") (uri "${KIPRJMOD}/components/vera.kicad_sym") (options "") (descr ""))
+)

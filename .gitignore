@@ -1,0 +1,39 @@
+# KiCad editor state and lock files
+*.kicad_prl
+~*.lck
+*.lck
+
+# KiCad autosaves and backups
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.bak
+*.bck
+*-save.pro
+*-save.kicad_pcb
+
+# KiCad caches and temporary files
+fp-info-cache
+*.000
+*.tmp
+*~
+
+# Exported/intermediate design files
+*.net
+*.dsn
+*.ses
+
+# Generated fabrication output directories
+gerbers/
+fabrication/
+manufacturing/
+outputs/
+
+# Editor and operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
