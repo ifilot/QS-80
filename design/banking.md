@@ -186,10 +186,9 @@ captures `D3-D0` while the appropriate bank-register chip select and
 `/WR` are active. It then updates the physical bank-address outputs and
 memory decode before the next memory cycle begins.
 
-For predictable registered logic, the Z80 clock should be connected to
-the CPLD's `GCLK1` input. In the current schematic, `GCLK1` carries a
-duplicate copy of `A15`; `A15` is already present on another CPLD pin.
-The duplicate connection should be replaced with `CLK`.
+For predictable registered logic, the Z80 clock is connected to the
+CPLD's dedicated `GCLK1` input on pin 43. CPU address line `A6` was moved
+to general-purpose pin 21; `A15` is on pin 39.
 
 ## Reset and boot operation
 

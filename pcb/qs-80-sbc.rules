@@ -1,0 +1,58 @@
+
+(rules PCB qs-80-sbc.dsn
+  (snap_angle 
+    fortyfive_degree
+  )
+  (rule
+    (width 200.0)
+    (clearance 200.0)
+    (clearance 100.0 (type smd_to_turn_gap))
+    (clearance 50.0 (type smd))
+    (clearance 500.0 (type "board_edge"))
+  )
+  (padstack "Via[0-1]_600:300_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:300_um" "Via[0-1]_600:300_um" default
+  )
+  (via_rule
+    default "Via[0-1]_600:300_um"
+  )
+  (via_rule
+    default "Via[0-1]_600:300_um"
+  )
+  (class default
+    VCC "unconnected-(J2-D--Pad2)" "unconnected-(J2-D+-Pad3)" GND "Net-(J2-Shield)" "BTN_NMI" "Net-(U22-VS+)" "unconnected-(Y1-NC-Pad1)"
+    CLK D7 D6 D5 D4 D3 D2 D1
+    D0 "~{VERA_CS}" ~{RES} ~{WR} "VERA_INT" A4 ~{RD} A2
+    A3 A0 A1 "unconnected-(U8-NC-Pad23)" "unconnected-(U8-NC-Pad24)" "Net-(U22-C1+)" "Net-(U22-C1-)" "Net-(RN2A-R1.2)"
+    "KB_CLK" "Net-(U22-C2+)" "Net-(U22-C2-)" "Net-(U22-VS-)" "Net-(U22-T2OUT)" "Net-(U22-R2IN)" ~{CTSB} ~{RTSB}
+    TXB RXB "Net-(U22-R1IN)" "Net-(U22-T1OUT)" "BTN_ON" "MS_DATA" "unconnected-(J6-Pad2)" "MS_CLK"
+    "unconnected-(J6-Pad6)" A11 A12 A13 A14 A15 ~{INT} ~{NMI}
+    ~{HALT} ~{MRQ} ~{IORQ} "Net-(RN1-R7)" ~{WAIT} "Net-(RN1-R8)" ~{M1} "unconnected-(U1-~{RFSH}-Pad28)"
+    A5 A6 A7 A8 A9 A10 "Net-(D10-K)" "LED_ON"
+    "KB_DATA" "unconnected-(J5-Pad2)" "unconnected-(J5-Pad6)" "Net-(D9-K)" "Net-(U3-AREF)" RXA "unconnected-(U6-~TXRDYB-Pad6)" TXA
+    "unconnected-(U6-~OPB-Pad9)" "~{UART_CSA}" "~{UART_CSB}" "unconnected-(U6-NC_2-Pad12)" "unconnected-(U6-XTAL2-Pad14)" "unconnected-(U6-~RXRDYB-Pad18)" "unconnected-(U6-NC_3-Pad24)" "unconnected-(U6-NC_4-Pad25)"
+    INTB INTA "unconnected-(U6-~RXRDYA-Pad31)" "unconnected-(U6-~OPA-Pad32)" "unconnected-(U6-~RTSA-Pad33)" "unconnected-(U6-~DTRA-Pad34)" "unconnected-(U6-~DTRB-Pad35)" RES
+    "unconnected-(U6-NC-Pad37)" "unconnected-(U6-~TXRDYA-Pad43)" TCK TDO TMS "unconnected-(J4-NC-Pad6)" "unconnected-(J4-NC-Pad7)" "unconnected-(J4-NC-Pad8)"
+    TDI "Net-(U3-XTAL1{slash}PB6)" "Net-(RN2B-R2.2)" "Net-(RN2C-R3.2)" "Net-(RN2D-R4.2)" "BTN_RES" "Net-(RN2H-R8.2)" "unconnected-(RN1-R1-Pad2)"
+    "unconnected-(RN1-R2-Pad3)" "Net-(U3-XTAL2{slash}PB7)" "unconnected-(U3-PD6-Pad12)" "unconnected-(U3-PD7-Pad13)" "unconnected-(U3-PB5-Pad19)" "unconnected-(U3-PC3-Pad26)" "unconnected-(U3-PC4-Pad27)" "unconnected-(U3-PC5-Pad28)"
+    "unconnected-(J3-Pad1)" "unconnected-(J3-Pad4)" "unconnected-(J3-Pad6)" "unconnected-(J3-Pad9)" ROMS2 ROMS1 ROMS0 RAMS2
+    RAMS1 RAMS0 "~{RAM_CS}" "~{ROM_CS}" "unconnected-(U4-NC-Pad1)" "unconnected-(U4-NC-Pad30)" "unconnected-(U2-NC-Pad1)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 200.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
