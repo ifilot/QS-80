@@ -102,10 +102,6 @@
           ""
         ],
         [
-          "starved_thermal|114839587|83280411|26865277-d93a-413d-b108-20b2d536dd0d|3d60b4f2-21ac-4545-baf3-5d63a269fbe9|F.Cu",
-          ""
-        ],
-        [
           "starved_thermal|115570000|88900000|26865277-d93a-413d-b108-20b2d536dd0d|c43d0af9-4c1c-45b7-ad86-11e99bfa71de|F.Cu",
           ""
         ],
@@ -597,7 +593,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "GERBERS/",
       "specctra_dsn": "qs-80-sbc.dsn",
       "step": "",
       "vrml": ""
