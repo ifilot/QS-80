@@ -1,0 +1,27 @@
+ERC report (2026-08-30T20:16:59, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'DE9_Socket' doesn't match copy in library 'Connector'
+    ; warning
+    @(123.19 mm, 173.99 mm): Symbol J3 [DE9_Socket]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'atf1504as-plcc44'
+    ; warning
+    @(259.08 mm, 162.56 mm): Symbol U5 [ATF1504AS-xJx44]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'atf1504_plcc44_breakout'
+    ; warning
+    @(339.09 mm, 168.91 mm): Symbol J4 [Atmel-JTAG-10]
+[lib_symbol_mismatch]: Symbol 'Mini-DIN-6' doesn't match copy in library 'Connector'
+    ; warning
+    @(374.65 mm, 27.94 mm): Symbol J5 [Mini-DIN-6]
+[lib_symbol_mismatch]: Symbol 'Mini-DIN-6' doesn't match copy in library 'Connector'
+    ; warning
+    @(374.65 mm, 48.26 mm): Symbol J6 [Mini-DIN-6]
+
+ ** ERC messages: 5  Errors 0  Warnings 5
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

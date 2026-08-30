@@ -806,7 +806,7 @@
         "uuid": "191568b6-9804-4121-a9d3-1784a4204de9"
       }
     ],
-    "used_designators": "U2,#PWR3,#PWR32,#PWR46,#PWR56,#PWR77,#PWR170,RN1,H1-4,J6",
+    "used_designators": "U2,D1,#PWR3,#PWR32,#PWR46,#PWR56,#PWR77,#PWR170,RN1,H1-4,R2,J6",
     "variants": []
   },
   "sheets": [
