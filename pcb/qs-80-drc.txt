@@ -1,0 +1,718 @@
+** Drc report for qs-80-sbc.kicad_pcb **
+** Created on 2026-08-30T19:39:18 **
+** Report includes: Errors, Warnings **
+
+** Found 174 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1787 mm)
+    Local override; error
+    @(90.0200 mm, 113.1450 mm): Track [~{ROM_CS}] on F.Cu, length 0.9857 mm
+    @(89.6645 mm, 112.7600 mm): Teardrop [A0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1782 mm)
+    Local override; error
+    @(74.7181 mm, 117.9581 mm): Track [~{ROM_CS}] on F.Cu, length 1.3948 mm
+    @(74.5071 mm, 118.1806 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1782 mm)
+    Local override; error
+    @(71.7800 mm, 115.0200 mm): Track [~{ROM_CS}] on F.Cu, length 4.1551 mm
+    @(74.5071 mm, 118.1806 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1787 mm)
+    Local override; error
+    @(89.6852 mm, 113.4798 mm): Track [~{ROM_CS}] on F.Cu, length 0.4735 mm
+    @(89.6645 mm, 112.7600 mm): Teardrop [A0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1613 mm)
+    Local override; error
+    @(89.6525 mm, 103.3273 mm): Track [RAMS0] on F.Cu, length 0.5053 mm
+    @(89.6645 mm, 102.6000 mm): Teardrop [A4] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1513 mm)
+    Local override; error
+    @(73.9652 mm, 87.0157 mm): Via [RAMS0] on F.Cu - B.Cu
+    @(73.9650 mm, 86.2600 mm): Teardrop [A11] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1613 mm)
+    Local override; error
+    @(90.0098 mm, 102.9700 mm): Track [RAMS0] on F.Cu, length 2.4236 mm
+    @(89.6645 mm, 102.6000 mm): Teardrop [A4] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1906 mm)
+    Local override; error
+    @(103.0723 mm, 95.2500 mm): Track [RAMS1] on B.Cu, length 0.3827 mm
+    @(102.1913 mm, 95.2824 mm): Teardrop [ROMS1] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1906 mm)
+    Local override; error
+    @(102.6896 mm, 95.2500 mm): Track [RAMS1] on B.Cu, length 15.5392 mm
+    @(102.1913 mm, 95.2824 mm): Teardrop [ROMS1] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0939 mm)
+    Local override; error
+    @(79.3750 mm, 123.1900 mm): Track [ROMS0] on F.Cu, length 13.4043 mm
+    @(65.5345 mm, 122.9200 mm): Teardrop [D4] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0939 mm)
+    Local override; error
+    @(65.9707 mm, 123.1900 mm): Track [ROMS0] on F.Cu, length 0.8980 mm
+    @(65.5345 mm, 122.9200 mm): Teardrop [D4] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0939 mm)
+    Local override; error
+    @(92.8448 mm, 105.4100 mm): Track [ROMS0] on F.Cu, length 2.7441 mm
+    @(89.6645 mm, 105.1400 mm): Teardrop [A3] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1590 mm)
+    Local override; error
+    @(90.1007 mm, 105.4100 mm): Track [ROMS0] on F.Cu, length 1.2304 mm
+    @(89.2089 mm, 106.5800 mm): Teardrop [A2] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0939 mm)
+    Local override; error
+    @(90.1007 mm, 105.4100 mm): Track [ROMS0] on F.Cu, length 1.2304 mm
+    @(89.6645 mm, 105.1400 mm): Teardrop [A3] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1590 mm)
+    Local override; error
+    @(89.2307 mm, 106.2800 mm): Track [ROMS0] on F.Cu, length 9.4557 mm
+    @(89.2089 mm, 106.5800 mm): Teardrop [A2] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1762 mm)
+    Local override; error
+    @(92.4788 mm, 83.6924 mm): Via [ROMS1] on F.Cu - B.Cu
+    @(92.3538 mm, 84.2023 mm): Teardrop [ROMS2] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1401 mm)
+    Local override; error
+    @(93.1658 mm, 47.0250 mm): Track [LED_ON] on F.Cu, length 9.3958 mm
+    @(93.6489 mm, 47.2490 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1401 mm)
+    Local override; error
+    @(104.6310 mm, 35.5600 mm): Track [LED_ON] on F.Cu, length 16.2141 mm
+    @(93.6489 mm, 47.2490 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1666 mm)
+    Local override; error
+    @(125.2233 mm, 80.0100 mm): Track [A10] on F.Cu, length 6.8567 mm
+    @(125.2775 mm, 79.7061 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1666 mm)
+    Local override; error
+    @(125.0253 mm, 80.2080 mm): Track [A10] on F.Cu, length 0.2800 mm
+    @(125.2775 mm, 79.7061 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0990 mm)
+    Local override; error
+    @(51.4350 mm, 101.6000 mm): PTH pad 7 [A5] of U4
+    @(50.0222 mm, 101.6000 mm): Track [A9] on F.Cu, length 1.5556 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1973 mm)
+    Local override; error
+    @(118.4445 mm, 131.4858 mm): Track [~{WAIT}] on B.Cu, length 9.4158 mm
+    @(118.3944 mm, 130.7021 mm): Teardrop [~{INT}] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1973 mm)
+    Local override; error
+    @(118.4445 mm, 133.9054 mm): Track [~{WAIT}] on B.Cu, length 2.4196 mm
+    @(118.3944 mm, 130.7021 mm): Teardrop [~{INT}] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1824 mm)
+    Local override; error
+    @(89.9510 mm, 95.4087 mm): Track [A15] on F.Cu, length 1.5716 mm
+    @(89.6056 mm, 95.0379 mm): Teardrop [A7] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1824 mm)
+    Local override; error
+    @(101.4906 mm, 95.4087 mm): Track [A15] on F.Cu, length 11.5396 mm
+    @(89.6056 mm, 95.0379 mm): Teardrop [A7] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0278 mm)
+    Local override; error
+    @(90.3591 mm, 92.5684 mm): Track [A14] on F.Cu, length 4.8614 mm
+    @(89.6056 mm, 92.4979 mm): Teardrop [A8] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0278 mm)
+    Local override; error
+    @(88.9475 mm, 93.9800 mm): Track [A14] on F.Cu, length 1.9963 mm
+    @(89.6056 mm, 92.4979 mm): Teardrop [A8] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0826 mm)
+    Local override; error
+    @(88.8398 mm, 91.4400 mm): Track [A13] on F.Cu, length 1.7961 mm
+    @(89.6056 mm, 89.9579 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0612 mm)
+    Local override; error
+    @(131.4628 mm, 83.8200 mm): Track [A13] on F.Cu, length 1.8872 mm
+    @(130.8101 mm, 83.6785 mm): Teardrop [A12] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0826 mm)
+    Local override; error
+    @(90.1098 mm, 90.1700 mm): Track [A13] on F.Cu, length 6.8704 mm
+    @(89.6056 mm, 89.9579 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0612 mm)
+    Local override; error
+    @(128.2034 mm, 87.0794 mm): Track [A13] on F.Cu, length 4.6095 mm
+    @(130.8101 mm, 83.6785 mm): Teardrop [A12] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0278 mm)
+    Local override; error
+    @(90.3591 mm, 87.4884 mm): Track [A12] on F.Cu, length 3.7700 mm
+    @(89.6056 mm, 87.4179 mm): Teardrop [A10] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0278 mm)
+    Local override; error
+    @(88.9475 mm, 88.9000 mm): Track [A12] on F.Cu, length 1.9963 mm
+    @(89.6056 mm, 87.4179 mm): Teardrop [A10] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1585 mm)
+    Local override; error
+    @(110.3240 mm, 55.6800 mm): Via [~{RTSB}] on F.Cu - B.Cu
+    @(110.2926 mm, 56.1800 mm): Teardrop [~{CTSB}] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1316 mm)
+    Local override; error
+    @(80.1300 mm, 69.7300 mm): Track [A1] on B.Cu, length 2.1450 mm
+    @(79.8685 mm, 72.3899 mm): Teardrop [A2] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1316 mm)
+    Local override; error
+    @(80.1300 mm, 71.8750 mm): Track [A1] on B.Cu, length 4.3204 mm
+    @(79.8685 mm, 72.3899 mm): Teardrop [A2] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(83.1850 mm, 110.3200 mm): Track [A1] on F.Cu, length 17.0443 mm
+    @(65.5345 mm, 110.2200 mm): Teardrop [A10] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(66.1407 mm, 110.3200 mm): Track [A1] on F.Cu, length 2.0365 mm
+    @(65.5345 mm, 110.2200 mm): Teardrop [A10] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1434 mm)
+    Local override; error
+    @(83.4637 mm, 67.3100 mm): Track [A0] on F.Cu, length 1.2922 mm
+    @(82.5499 mm, 67.4515 mm): Teardrop [A1] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1434 mm)
+    Local override; error
+    @(82.5500 mm, 68.2237 mm): Track [A0] on F.Cu, length 1.6263 mm
+    @(82.5499 mm, 67.4515 mm): Teardrop [A1] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1316 mm)
+    Local override; error
+    @(77.5900 mm, 69.7300 mm): Track [A3] on B.Cu, length 2.1450 mm
+    @(77.3285 mm, 72.3899 mm): Teardrop [A4] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1316 mm)
+    Local override; error
+    @(77.5900 mm, 71.8750 mm): Track [A3] on B.Cu, length 6.2155 mm
+    @(77.3285 mm, 72.3899 mm): Teardrop [A4] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(89.7050 mm, 105.2400 mm): Track [A3] on F.Cu, length 23.5643 mm
+    @(65.5345 mm, 105.1400 mm): Teardrop [A11] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(66.1407 mm, 105.2400 mm): Track [A3] on F.Cu, length 2.0365 mm
+    @(65.5345 mm, 105.1400 mm): Teardrop [A11] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1968 mm)
+    Local override; error
+    @(109.1710 mm, 55.0800 mm): Track [~{RD}] on F.Cu, length 2.2185 mm
+    @(111.3520 mm, 53.2506 mm): Teardrop [VCC] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1940 mm)
+    Local override; error
+    @(110.7400 mm, 51.6445 mm): Track [~{RD}] on F.Cu, length 0.3536 mm
+    @(111.1400 mm, 51.9054 mm): Teardrop [VCC] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1968 mm)
+    Local override; error
+    @(110.7400 mm, 53.5115 mm): Track [~{RD}] on F.Cu, length 1.0890 mm
+    @(111.3520 mm, 53.2506 mm): Teardrop [VCC] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1940 mm)
+    Local override; error
+    @(110.7400 mm, 52.4225 mm): Track [~{RD}] on F.Cu, length 0.7780 mm
+    @(111.1400 mm, 51.9054 mm): Teardrop [VCC] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0251 mm)
+    Local override; error
+    @(66.2835 mm, 102.7000 mm): Track [A4] on F.Cu, length 2.0365 mm
+    @(65.5808 mm, 102.6000 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0251 mm)
+    Local override; error
+    @(79.3750 mm, 102.7000 mm): Track [A4] on F.Cu, length 13.0915 mm
+    @(65.5808 mm, 102.6000 mm): Teardrop [A9] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0820 mm)
+    Local override; error
+    @(105.5482 mm, 111.9283 mm): Track [~{WR}] on B.Cu, length 0.5728 mm
+    @(106.7954 mm, 112.0781 mm): Teardrop [VCC] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0820 mm)
+    Local override; error
+    @(107.5078 mm, 109.9687 mm): Track [~{WR}] on B.Cu, length 2.7713 mm
+    @(106.7954 mm, 112.0781 mm): Teardrop [VCC] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0885 mm)
+    Local override; error
+    @(82.5500 mm, 71.6504 mm): Track [~{RES}] on B.Cu, length 6.0789 mm
+    @(82.4085 mm, 72.3899 mm): Teardrop [A0] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1471 mm)
+    Local override; error
+    @(109.3616 mm, 95.4882 mm): Track [~{RES}] on B.Cu, length 8.7947 mm
+    @(109.3099 mm, 104.9666 mm): Teardrop [VCC] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0885 mm)
+    Local override; error
+    @(82.5500 mm, 63.2290 mm): Track [~{RES}] on B.Cu, length 8.4214 mm
+    @(82.4085 mm, 72.3899 mm): Teardrop [A0] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1471 mm)
+    Local override; error
+    @(109.3616 mm, 104.2829 mm): Track [~{RES}] on B.Cu, length 1.5940 mm
+    @(109.3099 mm, 104.9666 mm): Teardrop [VCC] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1979 mm)
+    Local override; error
+    @(101.2152 mm, 110.6335 mm): Via [~{RES}] on F.Cu - B.Cu
+    @(101.2038 mm, 110.1073 mm): Teardrop [~{M1}] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1510 mm)
+    Local override; error
+    @(93.9800 mm, 47.6250 mm): Via [D1] on F.Cu - B.Cu
+    @(93.6489 mm, 47.2490 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1625 mm)
+    Local override; error
+    @(109.1200 mm, 36.9887 mm): Via [D1] on F.Cu - B.Cu
+    @(109.5717 mm, 36.6882 mm): Teardrop [D0] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1140 mm)
+    Local override; error
+    @(91.1821 mm, 110.5200 mm): Track [D2] on F.Cu, length 1.1090 mm
+    @(89.6645 mm, 110.2200 mm): Teardrop [A1] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1140 mm)
+    Local override; error
+    @(90.0731 mm, 110.5200 mm): Track [D2] on F.Cu, length 0.6293 mm
+    @(89.6645 mm, 110.2200 mm): Teardrop [A1] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1510 mm)
+    Local override; error
+    @(95.7200 mm, 47.6250 mm): Via [D3] on F.Cu - B.Cu
+    @(95.3889 mm, 47.2490 mm): Teardrop [D2] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1510 mm)
+    Local override; error
+    @(96.5200 mm, 47.6250 mm): Via [D4] on F.Cu - B.Cu
+    @(96.1889 mm, 47.2490 mm): Teardrop [D3] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1510 mm)
+    Local override; error
+    @(43.8150 mm, 66.6750 mm): Via [D6] on F.Cu - B.Cu
+    @(43.4839 mm, 66.2990 mm): Teardrop [D7] on F.Cu
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(88.4400 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 5.9500 mm
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(82.4900 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 1.1314 mm
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(63.8900 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 1.1314 mm
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(81.6900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on B.Cu, length 5.1000 mm
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(69.8400 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 5.9500 mm
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(70.6400 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.1314 mm
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(94.3900 mm, 23.9600 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.1314 mm
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(56.2800 mm, 23.1950 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.7678 mm
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(76.5900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.9500 mm
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+[shorting_items]: Items shorting two nets (nets  and Net-(J2-Shield))
+    Local override; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(63.0900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.2450 mm
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(32.5300 mm, 21.9450 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.7678 mm
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(95.1900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.3422 mm
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(57.8450 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 2.2132 mm
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(55.0300 mm, 21.9450 mm): Track [Net-(J2-Shield)] on F.Cu, length 22.5000 mm
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[shorting_items]: Items shorting two nets (nets Net-(J2-Shield) and )
+    Local override; error
+    @(88.4400 mm, 23.9600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.9500 mm
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1745 mm)
+    Local override; error
+    @(109.2400 mm, 52.4225 mm): Pad 16 [VCC] of U6 on F.Cu
+    @(109.6400 mm, 51.9054 mm): Teardrop [GND] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1854 mm)
+    Local override; error
+    @(110.2400 mm, 52.4225 mm): Pad 18 [unconnected-(U6-~RXRDYB-Pad18)] of U6 on F.Cu
+    @(109.6400 mm, 51.9054 mm): Teardrop [GND] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1854 mm)
+    Local override; error
+    @(110.7400 mm, 52.4225 mm): Pad 19 [~{RD}] of U6 on F.Cu
+    @(111.1400 mm, 51.9054 mm): Teardrop [VCC] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(58.6275 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(58.6275 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(53.7236 mm, 21.6950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(53.7236 mm, 21.6950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(33.8364 mm, 22.1950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(33.8364 mm, 22.1950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(60.1891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(60.1891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(65.8162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(65.8162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(73.6891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(73.6891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(79.4909 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(79.4909 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(72.5662 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(72.5662 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(66.9391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(66.9391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(78.7891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(78.7891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(84.4162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(84.4162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(97.0645 mm, 26.9880 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(97.0645 mm, 26.9880 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(92.4638 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(92.4638 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(91.3409 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(91.3409 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0000 mm)
+    Local override; error
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(85.5391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(85.5391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1768 mm)
+    Local override; error
+    @(92.3538 mm, 84.2023 mm): Teardrop [ROMS2] on F.Cu
+    @(91.9664 mm, 83.8006 mm): Teardrop [ROMS1] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1722 mm)
+    Local override; error
+    @(110.9244 mm, 55.5871 mm): Teardrop [~{RTSB}] on F.Cu
+    @(110.2926 mm, 56.1800 mm): Teardrop [~{CTSB}] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1856 mm)
+    Local override; error
+    @(111.1400 mm, 51.9054 mm): Teardrop [VCC] on F.Cu
+    @(110.7333 mm, 51.4964 mm): Teardrop [~{RD}] on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1732 mm)
+    Local override; error
+    @(96.1889 mm, 47.2490 mm): Teardrop [D3] on F.Cu
+    @(95.3889 mm, 47.2490 mm): Teardrop [D2] on F.Cu
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(65.4050 mm, 38.3200 mm): Footprint R8
+    @(56.9150 mm, 56.1000 mm): Footprint U3
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(56.9150 mm, 56.1000 mm): Footprint U3
+    @(78.1050 mm, 45.9400 mm): Footprint R9
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(56.9150 mm, 56.1000 mm): Footprint U3
+    @(83.1850 mm, 45.9400 mm): Footprint R11
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(56.9150 mm, 56.1000 mm): Footprint U3
+    @(60.3250 mm, 45.9400 mm): Footprint R10
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(118.1100 mm, 139.0650 mm): Track [GND] on F.Cu, length 1.2700 mm
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(109.1200 mm, 36.9887 mm): Via [D1] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(109.2200 mm, 36.1950 mm): Via [D0] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(110.4900 mm, 50.8000 mm): Via [~{RD}] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(110.8900 mm, 56.2800 mm): Via [~{CTSB}] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(110.3240 mm, 55.6800 mm): Via [~{RTSB}] on F.Cu - B.Cu
+[padstack]: Padstack is questionable ('mechanical' pads are normally PTH)
+    Local override; warning
+    @(29.9600 mm, 38.1200 mm): NPTH pad of U8
+[padstack]: Padstack is questionable ('mechanical' pads are normally PTH)
+    Local override; warning
+    @(29.9700 mm, 69.5650 mm): NPTH pad of U8
+[padstack]: Padstack is questionable ('mechanical' pads are normally PTH)
+    Local override; warning
+    @(92.9150 mm, 38.0650 mm): NPTH pad of U8
+[padstack]: Padstack is questionable ('mechanical' pads are normally PTH)
+    Local override; warning
+    @(92.9700 mm, 69.6200 mm): NPTH pad of U8
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6400 mm)
+    Rule: board setup constraints silk text height; warning
+    @(81.0605 mm, 28.9852 mm): Reference field of J6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6400 mm)
+    Rule: board setup constraints silk text height; warning
+    @(62.4605 mm, 28.9852 mm): Reference field of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(55.0300 mm, 21.9450 mm): Track [Net-(J2-Shield)] on F.Cu, length 22.5000 mm
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(55.0300 mm, 21.9450 mm): Track [Net-(J2-Shield)] on F.Cu, length 22.5000 mm
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(95.1900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.3422 mm
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(32.5300 mm, 21.9450 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.7678 mm
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(63.0900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.2450 mm
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(63.0900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.2450 mm
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(76.5900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.9500 mm
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(76.5900 mm, 24.7600 mm): Track [Net-(J2-Shield)] on F.Cu, length 5.9500 mm
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(94.3900 mm, 23.9600 mm): Track [Net-(J2-Shield)] on F.Cu, length 1.1314 mm
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(69.8400 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 5.9500 mm
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(69.8400 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 5.9500 mm
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(63.8900 mm, 23.9600 mm): Track [Net-(J2-Shield)] on B.Cu, length 1.1314 mm
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(78.7891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+    @(84.4162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(97.0645 mm, 26.9880 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+    @(92.4638 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(91.3409 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(88.4400 mm, 23.9600 mm): PTH pad SH [<no net>] of J6
+    @(85.5391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(58.6275 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(56.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(53.7236 mm, 21.6950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(31.2800 mm, 23.1950 mm): PTH pad SH [<no net>] of J3
+    @(33.8364 mm, 22.1950 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(60.1891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+    @(65.8162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(73.6891 mm, 24.5100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+    @(79.4909 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(72.5662 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; warning
+    @(69.8400 mm, 23.9600 mm): PTH pad SH [<no net>] of J5
+    @(66.9391 mm, 23.7100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(34.2900 mm, 83.7800 mm): Reference field of C6
+    @(34.2900 mm, 84.0300 mm): Reference field of U2
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(63.4900 mm, 31.9600 mm): Segment of J5 on F.Silkscreen
+    @(73.0250 mm, 32.2000 mm): Reference field of RN2
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(75.6650 mm, 39.5100 mm): Segment of C14 on F.Silkscreen
+    @(75.7350 mm, 42.1300 mm): Reference field of R9
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(72.9850 mm, 42.1300 mm): Reference field of C11
+    @(72.9250 mm, 44.7500 mm): Segment of C14 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(75.2800 mm, 61.1800 mm): Arc of Y2 on F.Silkscreen
+    @(72.9850 mm, 61.2200 mm): Reference field of C1
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(71.7950 mm, 42.1300 mm): Reference field of C14
+    @(71.8550 mm, 39.5100 mm): Segment of C11 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(69.1750 mm, 61.2200 mm): Reference field of C17
+    @(69.1150 mm, 63.8400 mm): Segment of C1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(110.4900 mm, 42.4100 mm): Reference field of U6
+    @(113.1100 mm, 42.0100 mm): Segment of C12 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(84.4950 mm, 61.2200 mm): Reference field of C10
+    @(81.5300 mm, 61.1800 mm): Arc of Y2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(59.0550 mm, 83.7800 mm): Reference field of C8
+    @(59.0550 mm, 84.0300 mm): Reference field of U4
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(83.1850 mm, 83.7800 mm): Reference field of C7
+    @(83.1850 mm, 84.0300 mm): Reference field of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(76.1900 mm, 31.9600 mm): Segment of J5 on F.Silkscreen
+    @(76.5900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(63.4900 mm, 20.5300 mm): Segment of J5 on F.Silkscreen
+    @(63.0900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(82.0900 mm, 20.5300 mm): Segment of J6 on F.Silkscreen
+    @(81.6900 mm, 24.7600 mm): PTH pad C1 [<no net>] of J6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(94.7900 mm, 31.9600 mm): Segment of J6 on F.Silkscreen
+    @(95.1900 mm, 24.7600 mm): PTH pad C2 [<no net>] of J6
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(58.6275 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+    @(65.8162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65.8162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+    @(72.5662 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(79.4909 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+    @(72.5662 mm, 25.0100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.4162 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on B.Cu
+    @(91.3409 mm, 24.2100 mm): Teardrop [Net-(J2-Shield)] on F.Cu
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
